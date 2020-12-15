@@ -79,4 +79,3 @@ dmypy.json
 .pyre/
 .pytype/
 .prof
-venv
